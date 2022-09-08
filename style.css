@@ -1,0 +1,23 @@
+
+body {
+    background-color:rgb(243, 243, 243);
+    font-family: 'Quicksand', sans-serif;
+}
+
+.tittle{
+    text-align: center;
+    margin-top: 120px;
+}
+   
+.text{
+    background-color: rgb(231, 231, 231);
+    margin: 20px 200px;
+    padding-top: 50px;    
+    padding-bottom: 50px;    
+    padding-left: 40PX;
+    padding-right: 40PX;
+    display: flex;
+    justify-content: center;
+}
+
+
